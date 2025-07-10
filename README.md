@@ -2,7 +2,7 @@
 
 This project explores how AI adoption, AI-generated content, and revenue growth impact the level of human-AI collaboration across countries.
 
-📄 For full analysis, methodology, and visualizations, please refer to the PDF report:  
+For full analysis, methodology, and visualizations, please refer to the PDF report:  
 [**project_report.pdf**](./project_report.pdf)
 
 ---
